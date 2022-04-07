@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kyryl/Downloads/Labs_OP_2/Lab_1/Lab_1_C++/file_operations.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+
+/Users/kyryl/Downloads/Labs_OP_2/Lab_1/Lab_1_C++/main.cpp
+file_operations.h
+/Users/kyryl/Downloads/Labs_OP_2/Lab_1/Lab_1_C++/file_operations.h
+
