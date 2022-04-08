@@ -38,7 +38,7 @@ def create_fist_file(file_name: str, n: int, mode: str):
         pickle.dump(car_list, file)
 
 
-def create_list(file_name_1: str, file_name_2: str, current_month: int, current_year: int):
+def create_list_recent_cars(file_name_1: str, file_name_2: str, current_month: int, current_year: int):
     with open(file_name_1, 'rb') as file:
         car_list = pickle.load(file)
     recent_cars = list()
