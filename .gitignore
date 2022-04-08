@@ -1,6 +1,6 @@
 # IntellijIdea files
 .DS_Store
 *.iml
-.idea
+**/.idea
 out
 
