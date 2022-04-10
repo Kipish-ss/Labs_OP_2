@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kyryl/Downloads/Labs_OP_2/Lab_3/date.h
+string
+-
+iostream
+-
+
+/Users/kyryl/Downloads/Labs_OP_2/Lab_3/main.cpp
+product.h
+/Users/kyryl/Downloads/Labs_OP_2/Lab_3/product.h
+product_operations.h
+/Users/kyryl/Downloads/Labs_OP_2/Lab_3/product_operations.h
+
+/Users/kyryl/Downloads/Labs_OP_2/Lab_3/product.h
+date.h
+/Users/kyryl/Downloads/Labs_OP_2/Lab_3/date.h
+string
+-
+iostream
+-
+
+/Users/kyryl/Downloads/Labs_OP_2/Lab_3/product_operations.h
+product.h
+/Users/kyryl/Downloads/Labs_OP_2/Lab_3/product.h
+iostream
+-
+vector
+-
+
