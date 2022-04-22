@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kyryl/Downloads/Labs_OP_2/Lab_4/Numeral_16.cpp
+Numeral_16.h
+/Users/kyryl/Downloads/Labs_OP_2/Lab_4/Numeral_16.h
+
+/Users/kyryl/Downloads/Labs_OP_2/Lab_4/Numeral_16.h
+iostream
+-
+string
+-
+cmath
+-
+

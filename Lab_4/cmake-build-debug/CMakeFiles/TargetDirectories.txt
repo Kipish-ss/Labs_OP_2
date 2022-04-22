@@ -1,0 +1,4 @@
+/Users/kyryl/Downloads/Labs_OP_2/Lab_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kyryl/Downloads/Labs_OP_2/Lab_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kyryl/Downloads/Labs_OP_2/Lab_4/cmake-build-debug/CMakeFiles/test.dir
+/Users/kyryl/Downloads/Labs_OP_2/Lab_4/cmake-build-debug/CMakeFiles/Lab_4.dir
