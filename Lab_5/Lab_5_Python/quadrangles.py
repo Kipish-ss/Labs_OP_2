@@ -29,7 +29,7 @@ class Parallelogram(TQuadrangle):
     def get_area(self):
         vector_1 = Point(self.point_2.x - self.point_1.x, self.point_2.y - self.point_1.y)
         vector_2 = Point(self.point_4.x - self.point_1.x, self.point_4.y - self.point_1.y)
-        return (vector_1.x * vector_2.y - vector_1.y * vector_2.x) ** 2
+        return abs(vector_1.x * vector_2.y - vector_1.y * vector_2.x)
 
 
 class Rectangle(Parallelogram):
