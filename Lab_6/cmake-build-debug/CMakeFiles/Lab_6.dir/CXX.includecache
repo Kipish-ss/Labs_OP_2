@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kyryl/Downloads/Labs_OP_2/Lab_6/Tree.h
+iostream
+-
+
+/Users/kyryl/Downloads/Labs_OP_2/Lab_6/tree_operations.cpp
+tree_operations.h
+/Users/kyryl/Downloads/Labs_OP_2/Lab_6/tree_operations.h
+stack
+-
+
+/Users/kyryl/Downloads/Labs_OP_2/Lab_6/tree_operations.h
+iostream
+-
+vector
+-
+Tree.h
+/Users/kyryl/Downloads/Labs_OP_2/Lab_6/Tree.h
+
